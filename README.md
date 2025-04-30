@@ -1,6 +1,3 @@
-# WinproFX_Dashboard
-A Power BI dashboard for analyzing forex and crypto trading performance across pairs, trade types, and market sessions using a simulated dataset.
-
 # WINPRO FX Dashboard
 
 This Power BI project visualizes forex and crypto trading performance using a demo dataset. It provides insights into profit/loss by currency pair, trade count, earnings by trade type, and performance across different global market sessions.
