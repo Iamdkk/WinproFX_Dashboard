@@ -22,6 +22,6 @@ The dataset (`WINPRO_FX_Dashboard_Demo_Dataset_v3.xlsx`) includes simulated trad
 
 This dashboard serves as a demonstration of performance tracking for active forex/crypto traders and is useful for analyzing trade efficiency and strategy effectiveness.
 
-## 📸 Dashboard Snapshot
+## WINPRO FX Dashboard Report
 
-> See the attached PDF (`WINPROFX.pdf`) for a visual preview of the dashboard.
+📊 Click to view the [full PDF report](WINPROFX.pdf) for detailed insights.
